@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://suraj20-02.github.io/ecom",
+  "homepage": "https://Suraj20-02.github.io/ecom",
   "scripts": {
     "start": "react-scripts start",
     "dev": "vite",
